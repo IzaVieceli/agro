@@ -470,6 +470,38 @@ a {
     padding-bottom: 15px; /* Espaçamento inferior */
 }
 
+.botoes-container {
+  text-align: center;
+}
+
+.botao {
+  background-color: #56b0e4;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px;
+  cursor: pointer;
+}
+
+.botao:hover {
+  background-color: #2b96d4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
