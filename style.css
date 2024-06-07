@@ -170,6 +170,17 @@ a {
     /* Espaçamento superior do parágrafo */
 }
 
+.container-parana {
+    margin: 0 auto;
+    /* Centraliza o conteúdo horizontalmente */
+    max-width: 800px;
+    /* Define a largura máxima do conteúdo */
+    padding: 0 20px;
+    /* Adiciona espaçamento interno nas laterais */
+    text-align: center;
+    /* Alinha o texto ao centro */
+}
+
 .container-parana h1 {
     color: #4CAF50;
     /* Cor do título */
