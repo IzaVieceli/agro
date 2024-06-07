@@ -170,6 +170,22 @@ a {
     /* Espaçamento superior do parágrafo */
 }
 
+.container-parana h1 {
+    color: #4CAF50;
+    /* Cor do título */
+    margin-top: 40px;
+    
+}
+
+.container-parana p {
+    font-size: 1.1rem;
+    /* Tamanho da fonte do parágrafo */
+    line-height: 1.6;
+    /* Altura da linha para melhor legibilidade */
+    margin-top: 20px;
+    /* Espaçamento superior do parágrafo */
+}
+
 
 /* Estilo para o container dos cards */
 .container {
