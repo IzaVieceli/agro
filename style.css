@@ -206,6 +206,7 @@ a {
     flex-wrap: wrap;
     /* Permite que os cards quebrem para a próxima linha */
     margin-top: 20px;
+    color: #007bff;
     /* Margem superior para separar os cards do conteúdo acima */
 }
 
