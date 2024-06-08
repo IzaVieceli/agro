@@ -241,6 +241,7 @@ a {
 
 .new-card-text p {
     margin-bottom: 0;
+    text-align: justify;
 }
 
 /* Estilo para o botão "Saiba Mais" */
