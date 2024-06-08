@@ -206,9 +206,13 @@ a {
     flex-wrap: wrap;
     /* Permite que os cards quebrem para a próxima linha */
     margin-top: 20px;
-    color: #007bff;
     /* Margem superior para separar os cards do conteúdo acima */
 }
+
+.container h2 {
+    color: #2b96d4;
+}
+
 
 /* Estilo para o card */
 .new-card {
