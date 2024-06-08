@@ -209,6 +209,16 @@ a {
     /* Margem superior para separar os cards do conteúdo acima */
 }
 
+.container-riqueza {
+    display: flex;
+    justify-content: center;
+    /* Centraliza os cards na tela */
+    flex-wrap: wrap;
+    /* Permite que os cards quebrem para a próxima linha */
+    margin-top: 20px;
+    /* Margem superior para separar os cards do conteúdo acima */
+}
+
 .container h2 {
     color: #1254e4d6;
 }
