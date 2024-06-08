@@ -211,8 +211,8 @@ a {
 
 /* Estilo para o card */
 .new-card {
-    width: calc(33.33% - 20px); /* Reduzi a largura para 33.33% */
-    margin: 10px; /* Mantive a margem de 10px */
+    width: calc(23.33% - 20px);
+    margin: 10px;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 0 10px #57A663;
