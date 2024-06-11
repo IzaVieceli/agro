@@ -247,24 +247,6 @@ a {
     text-align: center;
 }
 
-.new-card-link{
-    display: flex;
-    justify-content: flex-end;
-
-}
-
-.new-card-link a i{
-    font-size: 20px;
-}
-
-.new-card-link a .fab fa-instagram{
-    #E1306C
-}
-
-.new-card-link a .fa-solid fa-link{
-    #1877f2
-}
-
 /* Estilo para o botão "Saiba Mais" */
 .btn-saiba-mais {
     display: inline-block;
