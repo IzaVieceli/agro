@@ -247,8 +247,6 @@ a {
 .caca-palavra iframe{
     position: relative;
     width: 50%;
-    padding-top: calc(50% * 9 / 16);
-    overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 10px var(--verde);
     margin-top: 3rem;
