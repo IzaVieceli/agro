@@ -244,6 +244,10 @@ a {
     border-radius: 10px;
 }
 
+.caca-palavra{
+    text-align: center;
+}
+
 .caca-palavra iframe{
     width: 50%;
     border-radius: 10px;
