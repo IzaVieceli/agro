@@ -462,6 +462,7 @@ a {
 
     .hamburger::before,
     .hamburger::after {
+        content: " ";
         display: block;
         width: 1.5rem;
         height: 0.125rem;
